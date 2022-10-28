@@ -1,0 +1,26 @@
+.buttons {
+  font-size: 35px;
+  padding: 0 40px;
+  font-family: "Times New Roman", Times, serif;
+}
+.buttons a i {
+  font-size: 45px;
+  text-decoration: none;
+  border-color: black;
+  border-radius: 1px;
+  color: blueviolet;
+  padding: 15px;
+  cursor: pointer;
+}
+.social a i :hover {
+  color: black;
+}
+.Mcontainer {
+  display: flex;
+}
+.name u {
+  padding-top: 2px;
+}
+.buttons a i:hover {
+  transform: scale(1.5);
+}
